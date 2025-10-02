@@ -1,0 +1,6 @@
+<svg width="800" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#FF8C42"/>
+  <text x="400" y="450" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle">Acrylic on Canvas</text>
+  <text x="400" y="520" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">Placeholder 3</text>
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">Replace with actual artwork</text>
+</svg>
