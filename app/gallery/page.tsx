@@ -2,15 +2,15 @@ import Link from 'next/link';
 import ProtectedImage from '@/components/ProtectedImage';
 
 const acrylicWorks = [
-  { id: 1, src: '/gallery/acrylic-1.jpg', alt: 'Acrylic painting 1' },
-  { id: 2, src: '/gallery/acrylic-2.jpg', alt: 'Acrylic painting 2' },
-  { id: 3, src: '/gallery/acrylic-3.jpg', alt: 'Acrylic painting 3' },
+  { id: 1, src: '/gallery/acrylic-1.svg', alt: 'Acrylic painting 1' },
+  { id: 2, src: '/gallery/acrylic-2.svg', alt: 'Acrylic painting 2' },
+  { id: 3, src: '/gallery/acrylic-3.svg', alt: 'Acrylic painting 3' },
 ];
 
 const inkWorks = [
-  { id: 1, src: '/gallery/ink-1.jpg', alt: 'Ink illustration 1' },
-  { id: 2, src: '/gallery/ink-2.jpg', alt: 'Ink illustration 2' },
-  { id: 3, src: '/gallery/ink-3.jpg', alt: 'Ink illustration 3' },
+  { id: 1, src: '/gallery/ink-1.svg', alt: 'Ink illustration 1' },
+  { id: 2, src: '/gallery/ink-2.svg', alt: 'Ink illustration 2' },
+  { id: 3, src: '/gallery/ink-3.svg', alt: 'Ink illustration 3' },
 ];
 
 export const metadata = {
